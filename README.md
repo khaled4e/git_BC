@@ -1,4 +1,4 @@
-# GIT Use Cases [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+# GIT [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 Blockchain &amp; IoT use cases on GIT
 
 
@@ -13,3 +13,6 @@ Blockchain &amp; IoT use cases on GIT
   - Follow the comments in the `.html` file
   - Once your portfolio is complete, [commit](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line) the changes you've done to GitHub
   
+## Useful links:
+- [GitHub cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+- [A complete Git exercises](https://gitexercises.fracz.com/)
